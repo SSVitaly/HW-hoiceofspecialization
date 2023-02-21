@@ -1,4 +1,5 @@
-﻿string[] array1 = new string[] { "hello", "2", "world", ":-)" };
+﻿Console.Clear();
+string[] array1 = new string[] { "hello", "2", "world", ":-)" };
 string[] array2 = new string[] { "1234", "1567", "-2", "computer science" };
 string[] array3 = new string[] { "Russia", "Denmark", "Kazan" };
 
