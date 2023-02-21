@@ -1,0 +1,15 @@
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\HWСhoiceofspecialization\bin\Debug\net6.0\HWСhoiceofspecialization.exe
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\HWСhoiceofspecialization\bin\Debug\net6.0\HWСhoiceofspecialization.deps.json
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\HWСhoiceofspecialization\bin\Debug\net6.0\HWСhoiceofspecialization.runtimeconfig.json
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\HWСhoiceofspecialization\bin\Debug\net6.0\HWСhoiceofspecialization.dll
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\HWСhoiceofspecialization\bin\Debug\net6.0\HWСhoiceofspecialization.pdb
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\HWСhoiceofspecialization\obj\Debug\net6.0\HWСhoiceofspecialization.csproj.AssemblyReference.cache
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\HWСhoiceofspecialization\obj\Debug\net6.0\HWСhoiceofspecialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\HWСhoiceofspecialization\obj\Debug\net6.0\HWСhoiceofspecialization.AssemblyInfoInputs.cache
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\HWСhoiceofspecialization\obj\Debug\net6.0\HWСhoiceofspecialization.AssemblyInfo.cs
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\HWСhoiceofspecialization\obj\Debug\net6.0\HWСhoiceofspecialization.csproj.CoreCompileInputs.cache
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\HWСhoiceofspecialization\obj\Debug\net6.0\HWСhoiceofspecialization.dll
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\HWСhoiceofspecialization\obj\Debug\net6.0\refint\HWСhoiceofspecialization.dll
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\HWСhoiceofspecialization\obj\Debug\net6.0\HWСhoiceofspecialization.pdb
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\HWСhoiceofspecialization\obj\Debug\net6.0\HWСhoiceofspecialization.genruntimeconfig.cache
+C:\Users\Юзер\Desktop\Geek Brains\Homeworks\HWСhoiceofspecialization\obj\Debug\net6.0\ref\HWСhoiceofspecialization.dll
